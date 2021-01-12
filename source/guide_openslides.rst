@@ -7,7 +7,7 @@
 
 .. sidebar:: About
 
-  .. image:: _static/images/pretix.svg
+  .. image:: _static/images/openslides3-logo.svg
       :align: center
 
 ##########
